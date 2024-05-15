@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - srimanreddy4
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - srimanreddy4/sriman.github.io
+  - srimanreddy4/GPT_fromscratch
+  - srimanreddy4/DataScience-HW
+  - srimanreddy4/NLP-Assignment-1
+  - srimanreddy4/NLP-Assignementt3
+  - srimanreddy4/Chat_application_flutter
+  - srimanreddy4/Blith_App
+  - srimanreddy4/Food_Delivery_System
